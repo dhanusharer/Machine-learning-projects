@@ -149,4 +149,4 @@ This repo reflects my ML learning journey. Feel free to:
 
 📬 Contact
 
-Connect with me for feedback, collaboration, or mentorship opportunities!
+Connect with me for feedback, collaboration, or mentorship opportunities
